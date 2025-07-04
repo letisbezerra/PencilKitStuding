@@ -1,0 +1,17 @@
+.DS_Store
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+build/
+DerivedData/
+*.app
+*.ipa
+*.dSYM
+*.o
+*.lo
+*.la
+*.so
+.swiftpm/
+# CocoaPods
+Pods/
+# Carthage
+Carthage/Build/
