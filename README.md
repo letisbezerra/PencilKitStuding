@@ -1,5 +1,5 @@
 # EcosystemChallenge — PencilKit Drawing App  
-*Desenvolvido por Letícia Bezerra para Apple Developer Academy*
+*Desenvolvido por Letícia Bezerra para Apple Developer Academy IFCE*
 
 ---
 
@@ -94,5 +94,3 @@ Este projeto é um estudo prático e funcional do **PencilKit**, framework da Ap
 4. Use Apple Pencil ou toque para desenhar.
 
 ---
-
-*Desenvolvido por Letícia Bezerra — Apple Developer Academy 2025*
